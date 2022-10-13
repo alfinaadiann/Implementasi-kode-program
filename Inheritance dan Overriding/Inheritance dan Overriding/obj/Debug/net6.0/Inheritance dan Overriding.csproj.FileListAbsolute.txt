@@ -1,0 +1,15 @@
+C:\Users\ACER\OneDrive\Documents\PBO\Inheritance dan Overriding\Inheritance dan Overriding\bin\Debug\net6.0\Inheritance dan Overriding.exe
+C:\Users\ACER\OneDrive\Documents\PBO\Inheritance dan Overriding\Inheritance dan Overriding\bin\Debug\net6.0\Inheritance dan Overriding.deps.json
+C:\Users\ACER\OneDrive\Documents\PBO\Inheritance dan Overriding\Inheritance dan Overriding\bin\Debug\net6.0\Inheritance dan Overriding.runtimeconfig.json
+C:\Users\ACER\OneDrive\Documents\PBO\Inheritance dan Overriding\Inheritance dan Overriding\bin\Debug\net6.0\Inheritance dan Overriding.dll
+C:\Users\ACER\OneDrive\Documents\PBO\Inheritance dan Overriding\Inheritance dan Overriding\bin\Debug\net6.0\ref\Inheritance dan Overriding.dll
+C:\Users\ACER\OneDrive\Documents\PBO\Inheritance dan Overriding\Inheritance dan Overriding\bin\Debug\net6.0\Inheritance dan Overriding.pdb
+C:\Users\ACER\OneDrive\Documents\PBO\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\Inheritance dan Overriding.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Documents\PBO\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\Inheritance dan Overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Documents\PBO\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\Inheritance dan Overriding.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Documents\PBO\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\Inheritance dan Overriding.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Documents\PBO\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\Inheritance dan Overriding.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Documents\PBO\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\Inheritance dan Overriding.dll
+C:\Users\ACER\OneDrive\Documents\PBO\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\ref\Inheritance dan Overriding.dll
+C:\Users\ACER\OneDrive\Documents\PBO\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\Inheritance dan Overriding.pdb
+C:\Users\ACER\OneDrive\Documents\PBO\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\Inheritance dan Overriding.genruntimeconfig.cache
